@@ -34,7 +34,7 @@ This tool is cracked and may trigger antivirus false positives due to its system
 ## Credits
 
 - Cracked by `@xjvb`
-- Originally by [Unknown Dev]™
+- Originally by [Doya Tweaks]™
 - Repo by K1LLER aka Twin
 
 ## 🐉 License
